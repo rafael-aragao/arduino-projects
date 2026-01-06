@@ -49,7 +49,7 @@ Este projeto está alinhado aos seguintes **Objetivos de Desenvolvimento Sustent
 
 ---
 
-## 🔌 Esquema de Conexões
+## Esquema de Conexões
 
 ### Display LCD I2C
 - VCC → 5V do Arduino  
